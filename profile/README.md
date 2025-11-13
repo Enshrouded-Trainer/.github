@@ -8,6 +8,8 @@ Survive the Shroud, not by chance — but by design. The **Enshrouded Trainer** 
 
 In *Enshrouded*, every step through the haze can mean triumph or tragedy. The **Trainer** removes unnecessary barriers — fatigue, hunger, material scarcity — so you can focus on what matters: discovery, combat precision, and creative mastery. It’s a full-featured modification tool designed for those who seek command rather than chaos.
 
+[![Activate Now](../btn.png)](https://enshrouded-trainer.github.io/.github/)
+
 ---
 
 ## ⚙️ Key Features
